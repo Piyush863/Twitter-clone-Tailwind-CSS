@@ -1,4 +1,4 @@
-# Twitter-clone-Tailwind-CSS-
+# Twitter-clone-Tailwind-CSS
 Sure! Below is a sample `README.md` file for a Twitter clone project built using Tailwind CSS. You can customize it further based on your project's specifics.
 
 ```markdown
